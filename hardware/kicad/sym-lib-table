@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ssr")(type "KiCad")(uri "${KIPRJMOD}/ssr.kicad_sym")(options "")(descr "Relay SSR project symbols"))
+)
